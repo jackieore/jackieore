@@ -14,7 +14,8 @@
 
 #### I recommend these videos:
 Day Johnson shares his path into the cybersecurity industry [Cyberwox](https://www.youtube.com/@DayCyberwox)
-Tech with Lucy focuses on explain cloud technology [Tech With Lucy] (https://www.youtube.com/@TechwithLucy)
+
+Tech with Lucy focuses on explain cloud technology [Tech With Lucy](https://www.youtube.com/@TechwithLucy)
 
 #### I recommend looking into these certifications:
 
