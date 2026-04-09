@@ -1,4 +1,4 @@
-# Defending the Cloud: From Recruiting to Cybersecurity Engineering
+# ☁️🛡️ Defending the Cloud: From Recruiting to Cybersecurity Engineering
 
 ## Table of Contents
 
@@ -19,16 +19,16 @@ Cloud security professional focused on helping teams design, secure, and scale c
 
 I transitioned from HR and Recruiting into cybersecurity engineering, where I now focus on defending cloud environments.
 
-## Professional Summary
+## 👩🏽‍💻 Professional Summary
 
-- Target Role: Cloud Security Engineer
-- Core Focus: Cloud security posture, IAM, DevSecOps, and secure infrastructure practices
-- Current Learning: Terraform and cloud security automation
-- Career Transition: HR/Recruiting to Cybersecurity Engineering
-- Education: Completed a Bachelor's in Cybersecurity and a Master's in Cybersecurity over the last 4 years
-- Collaboration: Open to security-focused projects and community initiatives with fellow POC technologists
+- 🎯 Target Role: Cloud Security Engineer
+- 🔐 Core Focus: Cloud security posture, IAM, DevSecOps, and secure infrastructure practices
+- 🌱 Current Learning: Terraform and cloud security automation
+- 🔄 Career Transition: HR/Recruiting to Cybersecurity Engineering
+- 🎓 Education: Completed a Bachelor's in Cybersecurity and a Master's in Cybersecurity over the last 4 years
+- 🤝 Collaboration: Open to security-focused projects and community initiatives with fellow POC technologists
 
-## Cloud Security Competencies
+## ☁️ Cloud Security Competencies
 
 - Cloud Platforms: AWS, Azure, GCP (foundational knowledge)
 - Identity and Access: IAM principles, least privilege, role-based access control
@@ -36,7 +36,7 @@ I transitioned from HR and Recruiting into cybersecurity engineering, where I no
 - DevSecOps: Infrastructure as Code, secure deployment workflows, policy-aware engineering practices
 - Security Governance: Risk awareness, controls, and governance-aligned security thinking
 
-## Tools and Frameworks
+## 🧰 Tools and Frameworks
 
 - Terraform
 - Kubernetes
@@ -45,7 +45,7 @@ I transitioned from HR and Recruiting into cybersecurity engineering, where I no
 - OWASP
 - ISACA-aligned governance concepts
 
-## Certifications and Development
+## 📜 Certifications and Development
 
 - GCP Associate Cloud Engineer
 - Microsoft Azure (AZ-900)
@@ -61,21 +61,21 @@ Current path:
 - Strengthen cloud fundamentals across AWS, Azure, and GCP
 - Deepen specialization in one cloud ecosystem for security engineering depth
 
-## What I Bring to a Team
+## 💡 What I Bring to a Team
 
-- Security-first approach to cloud and infrastructure decisions
-- Ability to translate security concepts for technical and non-technical stakeholders
-- Unique blend of recruiting and security experience that strengthens communication, stakeholder alignment, and cross-functional collaboration
-- Commitment to continuous learning in cloud and cybersecurity
-- Community-minded perspective with interest in mentoring and knowledge sharing
+- 🛡️ Security-first approach to cloud and infrastructure decisions
+- 🗣️ Ability to translate security concepts for technical and non-technical stakeholders
+- 🌉 Unique blend of recruiting and security experience that strengthens communication, stakeholder alignment, and cross-functional collaboration
+- 📚 Commitment to continuous learning in cloud and cybersecurity
+- 🤲 Community-minded perspective with interest in mentoring and knowledge sharing
 
-## Community and Industry Engagement
+## 🌍 Community and Industry Engagement
 
 - BSides
 - DEF CON
 - WiCyS (Women in Cybersecurity)
 
-## Early Career Advice (Cyber and Cloud)
+## 🚀 Early Career Advice (Cyber and Cloud)
 
 If you are exploring cybersecurity or cloud security, there are many paths to enter the field. I usually describe cybersecurity in four broad buckets:
 
@@ -86,19 +86,19 @@ If you are exploring cybersecurity or cloud security, there are many paths to en
 
 If you are starting from zero, CompTIA Security+ is a great first certification for building a strong foundation.
 
-### Recommended Videos
+### 🎥 Recommended Videos
 
 - Day Johnson on breaking into cybersecurity: [Cyberwox](https://www.youtube.com/@DayCyberwox)
 - Lucy on cloud concepts and learning paths: [Tech With Lucy](https://www.youtube.com/@TechwithLucy)
 - Damien Burks on DevOps and security: [DevSecBlueprint](https://www.youtube.com/@devsecblueprint)
 
-### Recommended Starter Certifications
+### 🏁 Recommended Starter Certifications
 
 - CompTIA Security+
 - CompTIA Network+
 - Google Cybersecurity Professional Certificate
 
-### Concepts and Tools Worth Learning Early
+### 🧠 Concepts and Tools Worth Learning Early
 
 - MITRE
 - Terraform
@@ -107,15 +107,14 @@ If you are starting from zero, CompTIA Security+ is a great first certification 
 - Kubernetes
 - Splunk
 
-### Conferences to Explore
+### 🎟️ Conferences to Explore
 
 - BSides (affordable and community-driven)
 - DEF CON
 - WiCyS (Women in Cybersecurity)
 
-## Beyond the Keyboard
+## 🌊 Beyond the Keyboard
 
 - Marvel fan
 - Theme park enthusiast
 - Proudly Peruvian and always ready to talk cuisine
-
