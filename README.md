@@ -1,54 +1,121 @@
-## Hola Todos 👋
+# Defending the Cloud: From Recruiting to Cybersecurity Engineering
 
-- 🔭 I’m currently working on improving my DevOps skills
-- 🌱 I’m currently learning Terraform
-- 👯 I’m looking to collaborate with fellow POC technologists
-- 🤔 I’m looking for help with content development
-- 💬 Ask me about Marvel, theme parks and Peruvian cusine
-- 😄 Pronouns: She/Her/Ella
-- ⚡ Fun fact: I love the ocean and water sports but I do not know how to swim! 
+## Table of Contents
 
-## Cloud Career Advice Blog
+- [Professional Summary](#professional-summary)
+- [Cloud Security Competencies](#cloud-security-competencies)
+- [Tools and Frameworks](#tools-and-frameworks)
+- [Certifications and Development](#certifications-and-development)
+- [What I Bring to a Team](#what-i-bring-to-a-team)
+- [Community and Industry Engagement](#community-and-industry-engagement)
+- [Early Career Advice (Cyber and Cloud)](#early-career-advice-cyber-and-cloud)
+- [Recommended Videos](#recommended-videos)
+- [Recommended Starter Certifications](#recommended-starter-certifications)
+- [Concepts and Tools Worth Learning Early](#concepts-and-tools-worth-learning-early)
+- [Conferences to Explore](#conferences-to-explore)
+- [Beyond the Keyboard](#beyond-the-keyboard)
 
-### Interested in Cybersecurity or Cloud Security? 
+Cloud security professional focused on helping teams design, secure, and scale cloud environments with strong security fundamentals, automation, and operational discipline.
 
-If you are interested in exploring the Cybersecurity profession there are MANY different paths to start on. The Cyber landscape is has atleast 15 -20 different specialities within it. It usually falls within a few buckets this is how I viewed it - Blue Team, Purple Team, Red Team and Technical Security. If you need to start at the first block then I recommend taking the CompTIA Security+ exam because it does give you an overall view of this industry. 
+I transitioned from HR and Recruiting into cybersecurity engineering, where I now focus on defending cloud environments.
 
-Blue Team is the SOC team, the incident responders. 
+## Professional Summary
 
-Red Team made up of folks who love to break things, the hackers.
+- Target Role: Cloud Security Engineer
+- Core Focus: Cloud security posture, IAM, DevSecOps, and secure infrastructure practices
+- Current Learning: Terraform and cloud security automation
+- Career Transition: HR/Recruiting to Cybersecurity Engineering
+- Education: Completed a Bachelor's in Cybersecurity and a Master's in Cybersecurity over the last 4 years
+- Collaboration: Open to security-focused projects and community initiatives with fellow POC technologists
 
-Purple Team is where I group the most amount of specialities including threat, inteligence, risk & audit, control and other goverance work.
+## Cloud Security Competencies
 
-Technical Security is how I'd explain the group of folks who are more focused on the programing/ technical work think DevOps, Security Engineers IAM. 
+- Cloud Platforms: AWS, Azure, GCP (foundational knowledge)
+- Identity and Access: IAM principles, least privilege, role-based access control
+- Security Operations: Blue Team mindset, incident response fundamentals, security monitoring concepts
+- DevSecOps: Infrastructure as Code, secure deployment workflows, policy-aware engineering practices
+- Security Governance: Risk awareness, controls, and governance-aligned security thinking
 
-#### I recommend these videos:
-Day Johnson shares his path into the cybersecurity industry [Cyberwox](https://www.youtube.com/@DayCyberwox)
+## Tools and Frameworks
 
-Tech with Lucy focuses on explain cloud technology [Tech With Lucy](https://www.youtube.com/@TechwithLucy)
+- Terraform
+- Kubernetes
+- Splunk
+- MITRE ATT&CK
+- OWASP
+- ISACA-aligned governance concepts
 
-Damien Burks explains DevOps [DevSecBlueprint](https://www.youtube.com/@devsecblueprint)
+## Certifications and Development
 
+- GCP Associate Cloud Engineer
+- Microsoft Azure (AZ-900)
+- AWS Solutions Architect
+- GCP Generative AI Leader
+- ISC2 Certified in Cybersecurity
+- CompTIA Security+
+- AWS Cloud Practitioner
+- AWS Certified AI Practitioner
 
-#### I recommend looking into these certifications:
-If you want to enter the cybersecurity space check out Security+. Network+ is overlooked but the basis of alot of security work is truly understanding how computers talk to each other. I'd also recommend the Google Cybersecurity Professional Certificate because the information is very beginner friendly. 
+Current path:
 
-If you want to learn about cloud you need to review the 101 content for Azure, GCP and AWS. Pick one and look into their basic certification. The key is picking one to dive deep into!
+- Strengthen cloud fundamentals across AWS, Azure, and GCP
+- Deepen specialization in one cloud ecosystem for security engineering depth
 
-#### I recommend understanding these addtional resources:
-Know what they mean, it will make you sound smarter speaking with more experience Cyber/Information Security professionals.
+## What I Bring to a Team
+
+- Security-first approach to cloud and infrastructure decisions
+- Ability to translate security concepts for technical and non-technical stakeholders
+- Unique blend of recruiting and security experience that strengthens communication, stakeholder alignment, and cross-functional collaboration
+- Commitment to continuous learning in cloud and cybersecurity
+- Community-minded perspective with interest in mentoring and knowledge sharing
+
+## Community and Industry Engagement
+
+- BSides
+- DEF CON
+- WiCyS (Women in Cybersecurity)
+
+## Early Career Advice (Cyber and Cloud)
+
+If you are exploring cybersecurity or cloud security, there are many paths to enter the field. I usually describe cybersecurity in four broad buckets:
+
+- Blue Team: SOC operations and incident response
+- Red Team: offensive security and ethical hacking
+- Purple Team: threat intelligence, risk and audit, controls, and governance
+- Technical Security: engineering-heavy roles like DevOps, Security Engineering, and IAM
+
+If you are starting from zero, CompTIA Security+ is a great first certification for building a strong foundation.
+
+### Recommended Videos
+
+- Day Johnson on breaking into cybersecurity: [Cyberwox](https://www.youtube.com/@DayCyberwox)
+- Lucy on cloud concepts and learning paths: [Tech With Lucy](https://www.youtube.com/@TechwithLucy)
+- Damien Burks on DevOps and security: [DevSecBlueprint](https://www.youtube.com/@devsecblueprint)
+
+### Recommended Starter Certifications
+
+- CompTIA Security+
+- CompTIA Network+
+- Google Cybersecurity Professional Certificate
+
+### Concepts and Tools Worth Learning Early
+
 - MITRE
 - Terraform
 - ISACA
 - OWASP
 - Kubernetes
 - Splunk
-  
-#### I recommend looking into these conferences:
-Bsides conferences are the cheapest of cyber events and there are many local ones! 
 
-DefCon my favorite! A wonderful event that gathers fellow cyber nerds!
+### Conferences to Explore
 
-WiCyS is Women in Cybersecurity a global organization that hosts a great annual conference and year round events.
+- BSides (affordable and community-driven)
+- DEF CON
+- WiCyS (Women in Cybersecurity)
 
+## Beyond the Keyboard
+
+- Marvel fan
+- Theme park enthusiast
+- Proudly Peruvian and always ready to talk cuisine
 
